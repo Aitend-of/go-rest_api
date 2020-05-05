@@ -1,2 +1,2 @@
 # go-rest_api
-Go REST API With Mux practice
+Simple REST API implemented using Go
